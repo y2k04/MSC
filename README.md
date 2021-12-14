@@ -5,6 +5,7 @@ Minecraft Server Client - An alternative to using the server jar's interface
 ## Known bugs
  - Object reference exception thrown when saving server properties
  - Mods page, Whitelist and OPs list don't refresh (listings are blank)
+ - Sometimes the player count and Minecraft version don't show up after the server finishes booting
 
 ### Screenshots
 ![](https://github.com/y2k04/MSC/raw/main/images/1.png)
