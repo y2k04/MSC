@@ -2,6 +2,10 @@
 Minecraft Server Client - An alternative to using the server jar's interface
  - .NET Framework 4.8
 
+### Known bugs
+ - Object reference exception thrown when saving server properties
+ - Mods page, Whitelist and OPs list don't refresh (listings are blank)
+
 ## Screenshots
 ![](https://github.com/y2k04/MSC/raw/main/images/1.png)
 ![](https://github.com/y2k04/MSC/raw/main/images/2.png)
